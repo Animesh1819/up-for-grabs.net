@@ -15,3 +15,6 @@ tags:
 upforgrabs:
   name: up-for-grabs
   link: https://github.com/MvvmCross/MvvmCross/labels/up-for-grabs
+stats:
+  issue-count: 63
+  last-updated: '2019-09-23T16:06:38Z'

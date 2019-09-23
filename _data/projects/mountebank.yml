@@ -15,3 +15,6 @@ tags:
 upforgrabs:
   name: Beginner experience
   link: https://github.com/bbyars/mountebank/labels/Beginner%20experience
+stats:
+  issue-count: 12
+  last-updated: '2019-09-22T13:56:26Z'

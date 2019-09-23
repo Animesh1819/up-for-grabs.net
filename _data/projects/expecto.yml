@@ -9,3 +9,6 @@ tags:
 upforgrabs:
   name: help wanted
   link: https://github.com/haf/expecto/labels/help%20wanted
+stats:
+  issue-count: 13
+  last-updated: '2019-09-22T19:54:21Z'

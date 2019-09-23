@@ -13,3 +13,6 @@ tags:
 upforgrabs:
   name: simple task
   link: https://github.com/GlPortal/glPortal/labels/simple%20task
+stats:
+  issue-count: 2
+  last-updated: '2019-09-18T15:35:33Z'

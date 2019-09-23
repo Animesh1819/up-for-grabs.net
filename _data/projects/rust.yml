@@ -10,3 +10,6 @@ tags:
 upforgrabs:
   name: E-easy
   link: https://github.com/rust-lang/rust/labels/E-easy
+stats:
+  issue-count: 49
+  last-updated: '2019-09-23T20:23:56Z'

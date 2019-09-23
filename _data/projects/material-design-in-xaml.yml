@@ -12,3 +12,6 @@ tags:
 upforgrabs:
   name: up-for-grabs
   link: https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/labels/up-for-grabs
+stats:
+  issue-count: 30
+  last-updated: '2019-09-23T20:37:13Z'

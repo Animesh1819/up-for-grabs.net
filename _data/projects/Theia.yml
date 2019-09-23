@@ -17,3 +17,6 @@ tags:
 upforgrabs:
   name: help wanted
   link: https://github.com/theia-ide/theia/labels/help%20wanted
+stats:
+  issue-count: 144
+  last-updated: '2019-09-23T12:34:14Z'

@@ -12,3 +12,6 @@ tags:
 upforgrabs:
   name: Help wanted
   link: https://github.com/agershun/alasql/labels/Help%20wanted
+stats:
+  issue-count: 109
+  last-updated: '2019-09-23T11:46:55Z'

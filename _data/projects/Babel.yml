@@ -11,3 +11,6 @@ tags:
 upforgrabs:
   name: help wanted
   link: https://github.com/babel/babel/labels/help%20wanted
+stats:
+  issue-count: 18
+  last-updated: '2019-09-23T21:17:54Z'

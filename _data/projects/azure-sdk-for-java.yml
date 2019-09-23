@@ -11,3 +11,6 @@ tags:
 upforgrabs:
   name: Up for grabs
   link: https://github.com/Azure/azure-sdk-for-java/labels/Up%20for%20grabs
+stats:
+  issue-count: 4
+  last-updated: '2019-09-23T21:05:38Z'

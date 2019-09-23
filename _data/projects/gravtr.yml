@@ -9,3 +9,6 @@ tags:
 upforgrabs:
   name: up-for-grabs
   link: https://github.com/gfabricio/gravtr/labels/up-for-grabs
+stats:
+  issue-count: 0
+  last-updated: '2017-07-15T15:59:14Z'

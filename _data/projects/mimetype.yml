@@ -10,3 +10,6 @@ tags:
 upforgrabs:
   name: help wanted
   link: https://github.com/gabriel-vasile/mimetype/labels/help%20wanted
+stats:
+  issue-count: 1
+  last-updated: '2019-09-22T18:56:28Z'

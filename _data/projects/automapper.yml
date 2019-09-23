@@ -8,3 +8,6 @@ tags:
 upforgrabs:
   name: Up For Grabs
   link: https://github.com/AutoMapper/AutoMapper/labels/Up%20For%20Grabs
+stats:
+  issue-count: 5
+  last-updated: '2019-09-23T15:53:10Z'

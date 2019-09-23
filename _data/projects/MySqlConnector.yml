@@ -12,3 +12,6 @@ tags:
 upforgrabs:
   name: up for grabs
   link: https://github.com/mysql-net/MySqlConnector/labels/up%20for%20grabs
+stats:
+  issue-count: 5
+  last-updated: '2019-09-23T17:32:33Z'

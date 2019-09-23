@@ -10,3 +10,6 @@ tags:
 upforgrabs:
   name: Help wanted
   link: https://github.com/PlasmaPy/PlasmaPy/labels/Help%20wanted
+stats:
+  issue-count: 18
+  last-updated: '2019-09-17T06:15:51Z'

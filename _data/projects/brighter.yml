@@ -17,3 +17,6 @@ tags:
 upforgrabs:
   name: help wanted
   link: https://github.com/BrighterCommand/Brighter/labels/help%20wanted
+stats:
+  issue-count: 11
+  last-updated: '2019-09-23T18:01:04Z'

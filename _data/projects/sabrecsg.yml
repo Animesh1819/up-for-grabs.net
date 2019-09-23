@@ -11,3 +11,6 @@ tags:
 upforgrabs:
   name: up-for-grabs
   link: https://github.com/sabresaurus/SabreCSG/labels/up-for-grabs
+stats:
+  issue-count: 4
+  last-updated: '2019-09-20T23:58:20Z'

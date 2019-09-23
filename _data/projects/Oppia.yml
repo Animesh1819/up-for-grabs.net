@@ -17,3 +17,6 @@ tags:
 upforgrabs:
   name: good first issue
   link: https://github.com/oppia/oppia/labels/good%20first%20issue
+stats:
+  issue-count: 60
+  last-updated: '2019-09-23T18:05:16Z'

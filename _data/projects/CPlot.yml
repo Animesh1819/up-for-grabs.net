@@ -16,3 +16,6 @@ tags:
 upforgrabs:
   name: help wanted
   link: https://github.com/hilgenberg/cplot/labels/help%20wanted
+stats:
+  issue-count: 8
+  last-updated: '2019-07-13T04:28:49Z'

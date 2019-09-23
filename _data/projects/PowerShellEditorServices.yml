@@ -8,3 +8,6 @@ tags:
 upforgrabs:
   name: Up-for-Grabs
   link: https://github.com/PowerShell/PowerShellEditorServices/labels/Up-for-Grabs
+stats:
+  issue-count: 3
+  last-updated: '2019-09-21T02:02:49Z'

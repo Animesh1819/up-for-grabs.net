@@ -13,3 +13,6 @@ tags:
 upforgrabs:
   name: up-for-grabs
   link: https://github.com/NuGetPackageExplorer/NuGetPackageExplorer/labels/up-for-grabs
+stats:
+  issue-count: 11
+  last-updated: '2019-09-23T10:53:18Z'

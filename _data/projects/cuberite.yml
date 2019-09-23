@@ -15,3 +15,6 @@ tags:
 upforgrabs:
   name: effort/easy
   link: https://github.com/cuberite/cuberite/labels/effort%2Feasy
+stats:
+  issue-count: 15
+  last-updated: '2019-09-22T20:57:59Z'

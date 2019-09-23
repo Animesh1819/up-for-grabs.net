@@ -13,3 +13,6 @@ tags:
 upforgrabs:
   name: help wanted
   link: https://github.com/microsoft/TypeScript/labels/help%20wanted
+stats:
+  issue-count: 543
+  last-updated: '2019-09-23T21:09:57Z'
