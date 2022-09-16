@@ -5,9 +5,12 @@ site: https://github.com/ppadovani/KibanaNestedSupportPlugin
 tags:
 - kibana
 - javascript
-- react
+- reactjs
 - angular
 - web
 upforgrabs:
   name: up-for-grabs
   link: https://github.com/ppadovani/KibanaNestedSupportPlugin/labels/up-for-grabs
+stats:
+  issue-count: 1
+  last-updated: '2019-03-20T15:51:35Z'

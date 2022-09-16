@@ -11,3 +11,5 @@ tags:
 upforgrabs:
   name: Up-For-Grabs
   link: https://github.com/irazasyed/telegram-bot-sdk/labels/Up-For-Grabs
+stats:
+  issue-count: 0

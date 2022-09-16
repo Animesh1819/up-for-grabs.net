@@ -10,7 +10,10 @@ tags:
 - democracy
 - rails
 - open-government
-- Manage topics
+- manage-topics
 upforgrabs:
-  name: Good first issue
-  link: https://github.com/consul/consul/labels/Good%20first%20issue
+  name: help wanted
+  link: https://github.com/consul/consul/labels/help%20wanted
+stats:
+  issue-count: 25
+  last-updated: '2022-08-25T13:20:52Z'

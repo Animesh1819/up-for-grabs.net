@@ -5,10 +5,13 @@ desc: >-
   configuration, and lifecycle management inside the container, so you can focus on your apps.
 site: https://github.com/joyent/containerpilot
 tags:
-- Docker
+- docker
 - containers
 - init
 - orchestration
 upforgrabs:
   name: help wanted
-  link: https://github.com/joyent/containerpilot/labels/help%20wanted
+  link: https://github.com/TritonDataCenter/containerpilot/labels/help%20wanted
+stats:
+  issue-count: 5
+  last-updated: '2022-09-08T05:38:16Z'

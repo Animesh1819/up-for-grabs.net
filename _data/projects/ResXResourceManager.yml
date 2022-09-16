@@ -8,9 +8,12 @@ tags:
 - i18n
 - c#
 - ".net"
-- VisualStudio
-- WPF
-- MVVM
+- visualstudio
+- wpf
+- mvvm
 upforgrabs:
   name: Up for grabs
-  link: https://github.com/tom-englert/ResXResourceManager/labels/Up%20for%20grabs
+  link: https://github.com/dotnet/ResXResourceManager/labels/Up%20for%20grabs
+stats:
+  issue-count: 53
+  last-updated: '2022-08-07T17:28:54Z'

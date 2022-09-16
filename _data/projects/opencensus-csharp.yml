@@ -9,9 +9,8 @@ desc: >-
 site: https://opencensus.io
 tags:
 - trace
-- csharp
+- c#
 - ".net"
-- dotnet
 - cloud
 - stats
 - monitoring
@@ -29,3 +28,5 @@ tags:
 upforgrabs:
   name: up-for-grabs
   link: https://github.com/census-instrumentation/opencensus-csharp/labels/up-for-grabs
+stats:
+  issue-count: 0

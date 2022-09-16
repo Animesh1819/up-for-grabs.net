@@ -5,9 +5,12 @@ desc: >-
   Common Language Runtime.
 site: https://mono-project.com/
 tags:
-- C#
-- C
-- ".NET"
+- c#
+- c
+- ".net"
 upforgrabs:
   name: good first issue
   link: https://github.com/mono/mono/labels/good%20first%20issue
+stats:
+  issue-count: 11
+  last-updated: '2019-07-31T13:23:12Z'

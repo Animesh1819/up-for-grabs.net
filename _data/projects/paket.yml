@@ -3,12 +3,15 @@ name: Paket
 desc: A dependency manager for .NET with support for NuGet packages and Git repositories.
 site: https://github.com/fsprojects/Paket
 tags:
-- F#
+- f#
 - ".net"
 - build
-- dependency manager
+- dependency-manager
 - packaging
 - package
 upforgrabs:
   name: up-for-grabs
   link: https://github.com/fsprojects/Paket/labels/up-for-grabs
+stats:
+  issue-count: 51
+  last-updated: '2020-07-22T04:50:46Z'

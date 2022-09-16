@@ -3,9 +3,11 @@ name: lighthouse
 desc: Lighthouse - a simple service discovery platform for Akka.Cluster (Akka.NET)
 site: https://github.com/petabridge/lighthouse
 tags:
-- F#
-- Akka.NET
+- f#
+- akka.net
 - ".net"
 upforgrabs:
   name: help wanted
   link: https://github.com/petabridge/lighthouse/labels/help%20wanted
+stats:
+  issue-count: 0

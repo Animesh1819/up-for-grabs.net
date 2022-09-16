@@ -8,9 +8,11 @@ tags:
 - ruby
 - tdd
 - bdd
-- HTML
-- CSS
+- html
+- css
 - javascript
 upforgrabs:
   name: up-for-grabs
   link: https://github.com/AgileVentures/WebsiteOne/labels/up-for-grabs
+stats:
+  issue-count: 0

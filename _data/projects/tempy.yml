@@ -4,10 +4,12 @@ desc: HTML Object-Oriented Templating system
 site: https://github.com/Hrabal/TemPy
 tags:
 - html
-- OOP
+- oop
 - graphs
 - tree
 - python
 upforgrabs:
   name: low-hanging-fruit
   link: https://github.com/Hrabal/TemPy/labels/low-hanging-fruit
+stats:
+  issue-count: 0

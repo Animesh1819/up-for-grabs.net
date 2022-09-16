@@ -3,19 +3,20 @@ name: kentico.github.io
 desc: Official landing page for developer community in Kentico.
 site: https://github.com/Kentico/kentico.github.io
 tags:
-- JavaScript
+- javascript
 - kentico
 - kentico-cloud
 - headless-cms
 - headless
-- React
-- Gatsby
-- GatsbyJs
-- single-page application
-- static site
-- Azure Functions
+- reactjs
+- gatsbyjs
+- single-page-application
+- static-site
+- azure-functions
 - serverless
 - caas
 upforgrabs:
   name: up-for-grabs
   link: https://github.com/Kentico/kentico.github.io/labels/up-for-grabs
+stats:
+  issue-count: 0

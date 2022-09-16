@@ -10,3 +10,5 @@ tags:
 upforgrabs:
   name: help wanted
   link: https://github.com/nirmankarta/PyBeacon/labels/help%20wanted
+stats:
+  issue-count: 0

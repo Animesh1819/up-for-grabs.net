@@ -1,12 +1,14 @@
 ---
-name: Chip8 Web
+name: Chip8
 desc: A Chip8 emulator which runs in the browser along with tools to view the registers and instructions.
-site: https://github.com/Taiters/chip8-web
+site: https://github.com/chip8-net/chip8
 tags:
 - javascript
-- react
+- reactjs
 - emulator
-- Webpack
+- webpack
 upforgrabs:
   name: up-for-grabs
-  link: https://github.com/Taiters/chip8-web/labels/up-for-grabs
+  link: https://github.com/Taiters/chip8/labels/up-for-grabs
+stats:
+  issue-count: 0

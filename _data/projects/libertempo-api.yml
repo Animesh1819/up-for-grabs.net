@@ -5,10 +5,12 @@ site: https://github.com/libertempo/api
 tags:
 - php
 - refactoring
-- API
+- api
 - testing
 - slimphp
 - beginner
 upforgrabs:
   name: Help Wanted
   link: https://github.com/libertempo/api/labels/Help%20Wanted
+stats:
+  issue-count: 0

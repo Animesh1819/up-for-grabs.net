@@ -6,11 +6,14 @@ tags:
 - javascript
 - twine
 - sugarcube
-- d&d
-- procedural generation
-- random generation
+- dungeons-and-dragons
+- procedural-generation
+- random-generation
 - generation
 - tabletop
 upforgrabs:
-  name: good first issue
-  link: https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/labels/good%20first%20issue
+  name: help wanted
+  link: https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/labels/help%20wanted
+stats:
+  issue-count: 11
+  last-updated: '2022-09-08T13:54:06Z'

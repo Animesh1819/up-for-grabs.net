@@ -6,10 +6,13 @@ tags:
 - c++
 - python
 - javascript
-- Game
+- game
 - 3d
 - physics
 - 2d
 upforgrabs:
   name: simple task
   link: https://github.com/GlPortal/glPortal/labels/simple%20task
+stats:
+  issue-count: 2
+  last-updated: '2021-09-08T16:29:55Z'

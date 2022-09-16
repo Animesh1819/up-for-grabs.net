@@ -1,5 +1,26 @@
 <script type="text/html" id="projects-panel-template">
   <div class="filters-panel cf">
+      <h5><label for="project">Filter by last updated:</label></h5>
+      <div class="radio-btn-row">
+        <div class="radio-btn-wrapper">
+          <button id="1week" class="radio-btn" type="button">1 Week</button>
+        </div>
+        <div class="radio-btn-wrapper">
+          <button id="1month" class="radio-btn" type="button">1 Month</button>
+        </div>
+        <div class="radio-btn-wrapper">
+          <button id="6months" class="radio-btn" type="button">6 Months</button>
+        </div>
+        <div class="radio-btn-wrapper">
+          <button id="1year" class="radio-btn" type="button">1 Year</button>
+        </div>
+        <div class="radio-btn-wrapper">
+          <button id="2years" class="radio-btn" type="button">2 Years</button>
+        </div>
+      </div>
+  </div>
+
+  <div class="filters-panel cf">
     <h5><label for="project">Filter by name:</label></h5>
     <select class="names-filter" id="project" multiple data-placeholder="Select a project..." >
       <% _.each(names, function(entry, key){ %>
@@ -29,19 +50,34 @@
     <% }) %>
     </ul>
   </div>
-  <table class="projects">
-   <% _.each(projects, function(project){ %>
-    <tbody>
-    <tr>
-       <td colspan="2" class="title">
+  <div class="projects">
+    <% let count=0 %>
+    <% _.each(projects, function(project) { %>
+    <% count= count+1%>
+    <div class="data-box" class="<% if ( project.stats ) { %>counted<% } %>">
+      <div>
+        <div colspan="2" class="title">
            <span class="proj"><a href="<%-project.site %>" target="_blank"><%-project.name %></a></span>
-       </td>
-    </tr>
-    <tr>
-       <td class="details">
-        <p class="label"><a href="<%- project.upforgrabs.link %>" title="View open issues for <%-project.name %>" target="_blank" tabindex="-1"><%-project.upforgrabs.name %></a></p>
-       </td>
-       <td class="details">
+        </div>
+    </div>
+  <div>
+         <div class="details">
+        <p class="label">
+          <a href="<%- project.upforgrabs.link %>" title="View open issues for <%-project.name %>" target="_blank" tabindex="-1">
+            <%-project.upforgrabs.name %>
+            <% if (project.stats && project.stats['last-updated']) {
+                const now = new Date();
+                let lastUpdated = new Date(project.stats['last-updated']);
+                let since = relativeTime(now, lastUpdated);
+              %>
+              <span class="count" title="Last updated <%- since %>"><%-project.stats['issue-count']%></span>
+              <% } else if (project.stats) { %>
+              <span class="count" title="No recent activity"><%-project.stats['issue-count']%></span>
+            <% } %>
+          </a>
+        </p>
+      </div>
+      <div class="details">
            <% if (project.desc) { %>
            <span class="desc"><%=project.desc%></span>
            <% } %>
@@ -52,34 +88,24 @@
                <% }) %>
            </p>
            <% } %>
-       </td>
-    </tr>
-    </tbody>
+          </div>
+        </div>
+      </div>
    <% }) %>
-   </table>
-</script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/showdown/1.3.0/showdown.min.js"></script>
-<script type="text/javascript">
-  var files = {{ site.data.projects | jsonify }};
-  var projects = new Array();
-  var converter = new showdown.Converter();
-  for (var fileName in files) {
-    var project = files[fileName];
-    project.desc = converter.makeHtml(project.desc);
-    projects.push(project);
-  }
+  </div>
+   <% if(count==0) { %>
+    <p style="font-size: 1.5em;font-weight: 600;line-height: 30px;">No projects found with this description...<p>
+    <%} %>
 </script>
 <script src="{{ site.github.url }}javascripts/lib/require.js" data-main="javascripts/app"></script>
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-
-<script type="text/javascript">
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  ga('create', 'UA-45897756-1', 'auto');
+  ga('send', 'pageview');
 </script>
-<script type="text/javascript">
-  try {
-    var pageTracker = _gat._getTracker("UA-45897756-1");
-  pageTracker._trackPageview();
-  } catch(err) {}
-</script>
-
+<!-- End Google Analytics -->

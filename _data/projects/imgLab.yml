@@ -11,7 +11,10 @@ tags:
 - label
 - landmark
 - javascript
-- HTML
+- html
 upforgrabs:
   name: good first issue
   link: https://github.com/NaturalIntelligence/imglab/labels/good%20first%20issue
+stats:
+  issue-count: 15
+  last-updated: '2022-05-23T00:42:05Z'

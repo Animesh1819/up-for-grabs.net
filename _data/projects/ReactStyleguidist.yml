@@ -3,11 +3,14 @@ name: React Styleguidist
 desc: Isolated React component development environment with a living style guide
 site: https://react-styleguidist.js.org/
 tags:
-- react
+- reactjs
 - styleguide
 - javascript
 - components
-- UI
+- ui
 upforgrabs:
   name: good first issue
   link: https://github.com/styleguidist/react-styleguidist/labels/good%20first%20issue
+stats:
+  issue-count: 10
+  last-updated: '2021-12-02T10:51:58Z'

@@ -13,12 +13,15 @@ tags:
 - e-assessment
 - math
 - web
-- HTML
-- CSS
+- html
+- css
 - html5
 - algebra
-- CAS
+- cas
 - quiz
 upforgrabs:
   name: good first issue
   link: https://github.com/numbas/editor/labels/good%20first%20issue
+stats:
+  issue-count: 7
+  last-updated: '2022-07-28T08:29:24Z'

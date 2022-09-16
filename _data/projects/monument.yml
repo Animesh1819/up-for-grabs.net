@@ -4,10 +4,12 @@ desc: event driven lightweight application framework for node
 site: http://monument.ansble.com
 tags:
 - javascript
-- js
 - server
-- node
+- node.js
 - web
 upforgrabs:
   name: first contribution
   link: https://github.com/ansble/monument/labels/first%20contribution
+stats:
+  issue-count: 5
+  last-updated: '2019-10-26T16:14:20Z'

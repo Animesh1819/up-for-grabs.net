@@ -5,9 +5,11 @@ desc: >-
   settings into a rich, dynamic object.
 site: http://github.com/ChrisMissal/Formo
 tags:
-- C#
+- c#
 - configuration
 - dynamic
 upforgrabs:
   name: please contribute
   link: https://github.com/ChrisMissal/Formo/labels/please%20contribute
+stats:
+  issue-count: 0

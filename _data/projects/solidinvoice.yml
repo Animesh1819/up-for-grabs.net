@@ -6,11 +6,14 @@ desc: >-
   contacts, creating and sending quotes and invoices and online payments.
 site: https://solidinvoice.co
 tags:
-- PHP
-- Symfony
-- Invoicing
-- Billing
+- php
+- symfony
+- invoicing
+- billing
 - oss
 upforgrabs:
   name: easy-pick
   link: https://github.com/SolidInvoice/SolidInvoice/labels/easy-pick
+stats:
+  issue-count: 2
+  last-updated: '2022-09-10T15:43:30Z'

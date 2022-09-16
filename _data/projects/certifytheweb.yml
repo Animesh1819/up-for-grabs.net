@@ -7,8 +7,10 @@ tags:
 - windows
 - https
 - dns
-- C#
+- c#
 - wpf
 upforgrabs:
   name: up-for-grabs
   link: https://github.com/webprofusion/certify/labels/up-for-grabs
+stats:
+  issue-count: 0

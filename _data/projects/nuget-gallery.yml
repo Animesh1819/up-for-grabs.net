@@ -4,8 +4,10 @@ desc: The NuGet Gallery. Powers the "NuGet.org" website, as well as other NuGet 
 site: https://github.com/NuGet/NuGetGallery
 tags:
 - nuget
-- nuget.org
 - package
 upforgrabs:
   name: Up for Grabs
   link: https://github.com/NuGet/NuGetGallery/labels/Up%20for%20Grabs
+stats:
+  issue-count: 38
+  last-updated: '2022-09-07T22:02:18Z'

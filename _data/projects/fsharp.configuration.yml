@@ -3,12 +3,15 @@ name: FSharp.Configuration
 desc: The FSharp.Configuration project contains type providers for the configuration of .NET projects.
 site: https://github.com/fsprojects/FSharp.Configuration
 tags:
-- F#
 - ".net"
-- type provider
-- YAML
-- AppSettings
-- ResX
+- f#
+- typeprovider
+- yaml
+- appsettings
+- resx
 upforgrabs:
   name: up-for-grabs
   link: https://github.com/fsprojects/FSharp.Configuration/labels/up-for-grabs
+stats:
+  issue-count: 1
+  last-updated: '2015-03-22T07:00:17Z'

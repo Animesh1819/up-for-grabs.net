@@ -8,8 +8,11 @@ tags:
 - website
 - css
 - design
-- react
-- node
+- reactjs
+- node.js
 upforgrabs:
   name: good first issue
   link: https://github.com/styled-components/styled-components-website/labels/good%20first%20issue
+stats:
+  issue-count: 1
+  last-updated: '2021-09-06T18:25:06Z'

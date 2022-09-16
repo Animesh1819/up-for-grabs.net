@@ -3,7 +3,7 @@ name: ConTabs
 desc: Simple yet flexible tables for console apps.
 site: https://github.com/tdwright/contabs
 tags:
-- C#
+- c#
 - console
 - tables
 - ascii
@@ -12,3 +12,5 @@ tags:
 upforgrabs:
   name: up-for-grabs
   link: https://github.com/tdwright/contabs/labels/up-for-grabs
+stats:
+  issue-count: 0

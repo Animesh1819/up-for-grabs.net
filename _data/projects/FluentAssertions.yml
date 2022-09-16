@@ -14,5 +14,8 @@ tags:
 - assertions
 - c-sharp
 upforgrabs:
-  name: help wanted
-  link: https://github.com/fluentassertions/fluentassertions/labels/help%20wanted
+  name: up-for-grabs
+  link: https://github.com/fluentassertions/fluentassertions/labels/up-for-grabs
+stats:
+  issue-count: 17
+  last-updated: '2022-08-03T17:21:38Z'

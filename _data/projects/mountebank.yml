@@ -3,7 +3,7 @@ name: mountebank
 desc: Over the wire test doubles for http/s, tcp, and smtp
 site: http://mbtest.org
 tags:
-- service virtualization
+- service-virtualization
 - testing
 - stubs
 - mocks
@@ -15,3 +15,6 @@ tags:
 upforgrabs:
   name: Beginner experience
   link: https://github.com/bbyars/mountebank/labels/Beginner%20experience
+stats:
+  issue-count: 3
+  last-updated: '2022-03-06T23:31:17Z'

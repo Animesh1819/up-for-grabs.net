@@ -3,7 +3,7 @@ name: geeksay
 desc: "\U0001F913 geeks will ctrl+s the world!"
 site: https://github.com/swapagarwal/geeksay
 tags:
-- Javascript
+- javascript
 - web
 - css
 - html
@@ -13,3 +13,6 @@ tags:
 upforgrabs:
   name: good first issue
   link: https://github.com/swapagarwal/geeksay/labels/good%20first%20issue
+stats:
+  issue-count: 2
+  last-updated: '2022-08-28T10:58:26Z'

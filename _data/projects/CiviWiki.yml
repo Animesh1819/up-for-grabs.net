@@ -1,14 +1,17 @@
 ---
 name: CiviWiki
 desc: Building a Better Democracy for the Internet Age
-site: https://www.civiwiki.org/
+site: https://civi.wiki
 tags:
-- Python
-- Django
+- python
+- django
 - democracy
 - government
-- HTML
-- JavaScript
+- html
+- javascript
 upforgrabs:
   name: good first issue
   link: https://github.com/CiviWiki/OpenCiviWiki/labels/good%20first%20issue
+stats:
+  issue-count: 3
+  last-updated: '2022-09-11T09:34:39Z'

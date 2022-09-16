@@ -3,9 +3,12 @@ name: Moment-Timezone
 desc: Time zone add-on for moment.js
 site: http://momentjs.com/timezone
 tags:
-- JavaScript
+- javascript
 - date
 - time
 upforgrabs:
   name: Up-For-Grabs
   link: https://github.com/moment/moment-timezone/labels/Up-For-Grabs
+stats:
+  issue-count: 5
+  last-updated: '2020-08-13T06:57:47Z'

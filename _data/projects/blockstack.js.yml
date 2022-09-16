@@ -3,7 +3,7 @@ name: blockstack.js
 desc: The Blockstack JavaScript library for identity, auth and storage.
 site: https://blockstack.org
 tags:
-- react
+- reactjs
 - javascript
 - blockstack
 - blockchain
@@ -11,4 +11,7 @@ tags:
 - identity
 upforgrabs:
   name: good first issue
-  link: https://github.com/blockstack/blockstack.js/labels/good%20first%20issue
+  link: https://github.com/hirosystems/stacks.js/labels/good%20first%20issue
+stats:
+  issue-count: 1
+  last-updated: '2022-01-26T16:09:01Z'

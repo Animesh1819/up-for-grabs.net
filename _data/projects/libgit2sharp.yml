@@ -5,14 +5,17 @@ desc: >-
   world of .Net and Mono.
 site: https://github.com/libgit2/libgit2sharp
 tags:
-- C#
+- c#
 - libgit2
 - git
 - wrapper
 - bindings
-- API
+- api
 - dvcs
 - vcs
 upforgrabs:
   name: Up for grabs
   link: https://github.com/libgit2/libgit2sharp/labels/Up%20for%20grabs
+stats:
+  issue-count: 34
+  last-updated: '2022-08-15T06:43:21Z'

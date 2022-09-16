@@ -5,21 +5,23 @@ desc: >-
   like a virtual member of parliament
 site: https://www.democracy-deutschland.de/
 tags:
-- Javascript
-- Node
-- NodeJS
-- Docker
+- javascript
+- node.js
+- docker
 - web
 - website
 - android
 - ios
-- react
+- reactjs
 - reactnative
 - express
 - next
 - nextjs
-- GraphQL
-- MongoDB
+- graphql
+- mongodb
 upforgrabs:
-  name: Is Good First Issue
-  link: https://github.com/demokratie-live/democracy-client/labels/Is%20Good%20First%20Issue
+  name: "\U0001F3F8 Good First"
+  link: https://github.com/demokratie-live/democracy-client/labels/%F0%9F%8F%B8%20Good%20First
+stats:
+  issue-count: 4
+  last-updated: '2022-07-30T05:39:22Z'

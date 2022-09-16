@@ -6,10 +6,13 @@ tags:
 - c++
 - python
 - javascript
-- Game
+- game
 - 3d
 - physics
 - 2d
 upforgrabs:
   name: simple task
   link: https://github.com/GlPortal/RadixEngine/labels/simple%20task
+stats:
+  issue-count: 3
+  last-updated: '2019-03-06T20:18:47Z'

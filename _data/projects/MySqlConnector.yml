@@ -4,11 +4,14 @@ desc: Async MySQL ADO.NET library for .NET and .NET Core
 site: https://github.com/mysql-net/MySqlConnector
 tags:
 - mysql
-- ADO.NET
-- ".NET"
-- C#
+- ado.net
+- ".net"
+- c#
 - async
 - sql
 upforgrabs:
   name: up for grabs
   link: https://github.com/mysql-net/MySqlConnector/labels/up%20for%20grabs
+stats:
+  issue-count: 4
+  last-updated: '2022-07-05T15:16:24Z'

@@ -1,0 +1,16 @@
+on:
+  schedule:
+  - cron: 0 18 * * 0
+  workflow_dispatch:
+
+name: Cleanup stale projects
+jobs:
+  cleanupArchivedProjects:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@main
+    - name: Cleanup archived projects
+      uses: ./.github/actions/cleanup-archived-projects
+      env:
+        GITHUB_TOKEN: ${{ secrets.SHIFTBOT_TOKEN }}
+        APPLY_CHANGES: 0

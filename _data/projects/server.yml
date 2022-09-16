@@ -4,10 +4,12 @@ desc: Modern, simple & flexible server for Node.js
 site: https://serverjs.io/
 tags:
 - javascript
-- node
+- node.js
 - express
 - es6
 - es7
 upforgrabs:
   name: up-for-grabs
   link: https://github.com/franciscop/server/labels/up-for-grabs
+stats:
+  issue-count: 0

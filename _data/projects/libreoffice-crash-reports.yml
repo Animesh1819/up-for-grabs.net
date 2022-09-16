@@ -11,10 +11,12 @@ tags:
 - python
 - web
 - javascript
-- js
 - ui
 - qa
 - quality-assurance
 upforgrabs:
   name: up-for-grabs
   link: https://github.com/mmohrhard/crash/labels/up-for-grabs
+stats:
+  issue-count: 2
+  last-updated: '2020-10-11T13:14:01Z'

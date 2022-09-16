@@ -7,11 +7,14 @@ tags:
 - markdown
 - editor
 - oss
-- node
+- node.js
 - web
-- CSS
-- HTML
-- JavaScript
+- css
+- html
+- javascript
 upforgrabs:
   name: good first issue
-  link: https://github.com/codimd/server/labels/good%20first%20issue
+  link: https://github.com/hedgedoc/hedgedoc/labels/good%20first%20issue
+stats:
+  issue-count: 2
+  last-updated: '2022-05-24T21:20:28Z'

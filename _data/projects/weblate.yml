@@ -5,13 +5,16 @@ site: https://weblate.org/
 tags:
 - javascript
 - web
-- Bootstrap
-- Python
-- Django
+- bootstrap
+- python
+- django
 - localization
 - internationalization
-- Git
-- VCS
+- git
+- vcs
 upforgrabs:
   name: good first issue
   link: https://github.com/WeblateOrg/weblate/labels/good%20first%20issue
+stats:
+  issue-count: 48
+  last-updated: '2022-09-07T19:29:28Z'

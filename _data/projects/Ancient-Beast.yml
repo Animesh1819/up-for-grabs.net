@@ -13,7 +13,10 @@ tags:
 - strategy
 - game
 - chess
-- node
+- node.js
 upforgrabs:
-  name: good first issue
-  link: https://github.com/FreezingMoon/AncientBeast/labels/good%20first%20issue
+  name: easy
+  link: https://github.com/FreezingMoon/AncientBeast/labels/easy
+stats:
+  issue-count: 25
+  last-updated: '2022-08-22T00:10:51Z'

@@ -6,7 +6,7 @@ desc: >-
 site: https://github.com/HofmeisterAn/dotnet-testcontainers
 tags:
 - ".net"
-- ".net core"
+- ".net-core"
 - c#
 - docker
 - container
@@ -15,4 +15,7 @@ tags:
 - integration-tests
 upforgrabs:
   name: good first issue
-  link: https://github.com/HofmeisterAn/dotnet-testcontainers/labels/good%20first%20issue
+  link: https://github.com/testcontainers/testcontainers-dotnet/labels/good%20first%20issue
+stats:
+  issue-count: 1
+  last-updated: '2022-08-20T10:10:16Z'

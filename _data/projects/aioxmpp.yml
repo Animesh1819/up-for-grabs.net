@@ -9,3 +9,6 @@ tags:
 upforgrabs:
   name: up-for-grabs
   link: https://github.com/horazont/aioxmpp/labels/up-for-grabs
+stats:
+  issue-count: 9
+  last-updated: '2020-04-11T12:44:07Z'

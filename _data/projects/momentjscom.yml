@@ -3,7 +3,7 @@ name: momentjs.com
 desc: Web site and documentation content for moment.js
 site: http://momentjs.com
 tags:
-- JavaScript
+- javascript
 - date
 - time
 - web
@@ -11,3 +11,5 @@ tags:
 upforgrabs:
   name: Up-For-Grabs
   link: https://github.com/moment/momentjs.com/labels/Up-For-Grabs
+stats:
+  issue-count: 0

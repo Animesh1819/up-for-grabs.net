@@ -6,9 +6,12 @@ desc: >-
 site: https://github.com/teacherfund/TeacherFund_next
 tags:
 - javascript
-- react
+- reactjs
 - json
 - css
 upforgrabs:
   name: good first issue
   link: https://github.com/teacherfund/TeacherFund_next/labels/good%20first%20issue
+stats:
+  issue-count: 1
+  last-updated: '2022-05-18T21:15:19Z'

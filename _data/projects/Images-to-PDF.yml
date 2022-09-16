@@ -5,8 +5,11 @@ site: https://github.com/Swati4star/Images-to-PDF
 tags:
 - pdf
 - android
-- iTextG
-- Multimedia
+- itextg
+- multimedia
 upforgrabs:
   name: up-for-grabs
   link: https://github.com/Swati4star/Images-to-PDF/labels/up-for-grabs
+stats:
+  issue-count: 15
+  last-updated: '2022-04-18T11:21:15Z'

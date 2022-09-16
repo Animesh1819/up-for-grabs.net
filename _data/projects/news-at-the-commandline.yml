@@ -8,7 +8,9 @@ tags:
 - python
 - requests
 - yaml
-- Beautiful Soup
+- beautiful-soup
 upforgrabs:
   name: up-for-grabs
   link: https://github.com/Griffintaur/News-At-Command-Line/labels/up-for-grabs
+stats:
+  issue-count: 0

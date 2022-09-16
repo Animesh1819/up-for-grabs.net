@@ -9,3 +9,5 @@ tags:
 upforgrabs:
   name: Up for Grabs
   link: https://github.com/fixie/fixie/labels/Up%20for%20Grabs
+stats:
+  issue-count: 0

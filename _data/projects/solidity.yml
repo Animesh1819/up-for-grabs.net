@@ -10,3 +10,6 @@ tags:
 upforgrabs:
   name: help wanted
   link: https://github.com/ethereum/solidity/labels/help%20wanted
+stats:
+  issue-count: 12
+  last-updated: '2022-09-11T17:03:55Z'

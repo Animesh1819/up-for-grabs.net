@@ -14,3 +14,5 @@ tags:
 upforgrabs:
   name: newbie-friendly
   link: https://github.com/snowdriftcoop/snowdrift/labels/newbie-friendly
+stats:
+  issue-count: 0
